@@ -24,4 +24,6 @@ My interests, projects and topics of personal research often touch on
 * 🔒 Security Engineering
 * 🧩 Computational Theory
 
+Worked with Team Quay, a group of undergraduates from various disciplines to develop Augur The Aspects, a mobile RPG. Development is currently in hiatus.
+
 Download the installer for my racing game [here](https://www.dropbox.com/s/vpioitartag4zh0/Infinity%20Drift%20Alpha%20Setup.exe?dl=0)! Built with the Unity Engine and inspired by the manga/anime Initial D.
