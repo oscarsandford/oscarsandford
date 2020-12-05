@@ -20,7 +20,6 @@ My interests, projects and topics of personal research often touch on
 
 * 💻 Application Development
 * 📊 Data Science
-* 🕹️ Game Development
 * 🔒 Security Engineering
 * 🧩 Computational Theory
 
