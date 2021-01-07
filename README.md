@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 I'm Oscar, a third year computer science student studying at the University of Victoria in Canada. <br>
 My interests, projects and topics of personal research often touch on
 
-* 💻 Web and Software Development
+* 💻 Software Development
+* 🔒 Web Application Security
 * 📊 Data Science and Statistics
-* 🔒 Security Engineering
-* 🧩 Computational Theory
 
 For a year I worked with Team Quay, a group of undergraduates from various disciplines to develop Augur The Aspects, a mobile RPG coded in GDScript with the Godot Engine. Development is currently in hiatus.
 
