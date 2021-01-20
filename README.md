@@ -22,6 +22,9 @@ My interests, projects and topics of personal research often touch on
 * 🔒 Web Application Security
 * 📊 Data Science and Statistics
 
+
+I learned how to design and maintain a functional web application for my family's business using React, Express, and PostgreSQL in a NodeJS environment. Check out the site [here](https://www.skypilotent.ca/).
+
 For a year I worked with Team Quay, a group of undergraduates from various disciplines to develop Augur The Aspects, a mobile RPG coded in GDScript with the Godot Engine. Development is currently in hiatus.
 
 Download the installer for my racing game [here](https://www.dropbox.com/s/vpioitartag4zh0/Infinity%20Drift%20Alpha%20Setup.exe?dl=0)! Built with the Unity Engine and inspired by the manga/anime Initial D.
