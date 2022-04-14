@@ -27,3 +27,8 @@ During my first year of programming at UVic, I used Unity to piece together a ra
 
 For a year I worked with Team Quay, a group of undergraduates from various disciplines, to develop *Augur The Aspects*, a 2D mobile RPG, using the Godot Engine. For various reasons, development was halted in September 2020. In summer 2021 I returned to Godot solo, building a new 3D action role-playing game inspired by *Dark Souls*. Development enters hiatus in fall 2021. 
 
+### Academia 📜
+- [Multi-Armed Bandits for Optimizing New Peers in Peer-to-Peer Networks](https://github.com/oscarsandford/network-bandit/blob/master/report/report.pdf)
+- [Chiptune Extension and Generation Using Markov Chains](https://github.com/oscarsandford/chiptune-generation/blob/master/report/report.pdf)
+- [A Survey on the Importance of QoS Parameters Across Networking Domains](https://github.com/oscarsandford/qoemf/blob/master/docs/csc466_report.pdf)
+- [Programming Language Diversity and Software Growth: A Case Study](https://drive.google.com/file/d/1zlLKsCzAX-cvkmcjnWfFfyLSzUBRZGO2/view?usp=sharing)
