@@ -17,17 +17,9 @@ Here are some ideas to get you started:
 
 I'm Oscar, a computer science student studying at the University of Victoria in Canada. As one of my hobbies, I dabble in various areas of my field in order to fortify my foundational understanding and explore topics that interest me.
 
-## Projects
+Recently, my primary concentrations have been in ML/RL, software development (Rust, Python, C++), and full stack development (React, PostgreSQL, JS/TS). 
 
-### Web Development 🖱️
-I learned how to design and maintain a functional dynamic web application for my family's business using React, Express, and PostgreSQL in a NodeJS environment. Check out the site [here](https://www.skypilotent.ca/).
-
-### Game Development 🎮
-During my first year of programming at UVic, I used Unity to piece together a racing game inspired by the manga Initial D. The installer can be downloaded [here](https://www.dropbox.com/s/vpioitartag4zh0/Infinity%20Drift%20Alpha%20Setup.exe?dl=0). 
-
-For a year I worked with Team Quay, a group of undergraduates from various disciplines, to develop *Augur The Aspects*, a 2D mobile RPG, using the Godot Engine. For various reasons, development was halted in September 2020. In summer 2021 I returned to Godot solo, building a new 3D action role-playing game inspired by *Dark Souls*. Development enters hiatus in fall 2021. 
-
-### Academia 📜
+## Academic Projects
 - [Multi-Armed Bandits for Optimizing New Peers in Peer-to-Peer Networks](https://github.com/oscarsandford/network-bandit/blob/master/report/report.pdf)
 - [Chiptune Extension and Generation Using Markov Chains](https://github.com/oscarsandford/chiptune-generation/blob/master/report/report.pdf)
 - [A Survey on the Importance of QoS Parameters Across Networking Domains](https://github.com/oscarsandford/qoemf/blob/master/docs/csc466_report.pdf)
